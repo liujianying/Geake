@@ -6,13 +6,13 @@
 //  Copyright © 2015年 geake. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "GeakeAppDelegate.h"
 
-@interface AppDelegate ()
+@interface GeakeAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation GeakeAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
